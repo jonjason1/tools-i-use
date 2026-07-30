@@ -45,6 +45,7 @@ Curated by [Jon Jason](https://jonjason.com/?utm_source=awesome-repos&utm_medium
 |---|---|---|
 | [tobi/qmd](https://github.com/tobi/qmd) | Local search over a markdown corpus. Powers my second brain. | check repo |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | What people actually said about a topic in the last 30 days. | check repo |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | One CLI that gives an agent read access to Twitter, Reddit, YouTube, GitHub, LinkedIn, RSS and more - installs and routes the backends for you. | MIT |
 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Converts anything (docx, pdf, xlsx, pptx) to markdown. | MIT |
 | [robonuggets/markitdown-guide](https://github.com/robonuggets/markitdown-guide) | Practical guide to the above. | check repo |
 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | Personal knowledge system. | check repo |
