@@ -16,6 +16,12 @@ Curated by [Jon Jason](https://jonjason.com/?utm_source=awesome-repos&utm_medium
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes an agent build the lazy, simple version instead of over-engineering. | check repo |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Terse-prose mode for agents. Pairs well with the above. | check repo |
 
+## Security
+
+| Repo | What it does | License |
+|---|---|---|
+| [usestrix/strix](https://github.com/usestrix/strix) | Autonomous AI pentesting agents. Runs your app in a Docker sandbox, finds vulnerabilities and proves them with a working exploit instead of a static-analysis guess. | Apache-2.0 |
+
 ## Writing and anti-slop
 
 | Repo | What it does | License |
