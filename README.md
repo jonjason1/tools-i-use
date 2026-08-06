@@ -16,6 +16,13 @@ Curated by [Jon Jason](https://jonjason.com/?utm_source=awesome-repos&utm_medium
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes an agent build the lazy, simple version instead of over-engineering. | check repo |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Terse-prose mode for agents. Pairs well with the above. | check repo |
 
+## Agent workflow and quality
+
+| Repo | What it does | License |
+|---|---|---|
+| [robonuggets/gauntlet-loop](https://github.com/robonuggets/gauntlet-loop) | Turns a goal into one paste-ready prompt that runs a builder and a separate harsh critic against a real, named quality bar and loops until the work wins the blind comparison. The bar is the trick — a vague one gets you approval, not quality. Technique originally [Matt Shumer's](https://github.com/mshumer/Claude-of-Duty). | CC BY 4.0 |
+| [robonuggets/doctor-plus](https://github.com/robonuggets/doctor-plus) | Runs `/doctor`, then audits your workspace against the six context-engineering shifts Anthropic published for the Claude 5 models. Reports first, fixes only on approval. | CC BY 4.0 |
+
 ## Security
 
 | Repo | What it does | License |
