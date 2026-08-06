@@ -84,6 +84,10 @@ Curated by [Jon Jason](https://jonjason.com/?utm_source=awesome-repos&utm_medium
 | [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) | On-device Whisper for Apple silicon. Fast. | MIT |
 | [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) | Swift audio inference. | check repo |
 | [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | Prompt patterns for Seedance video. | check repo |
+| [robonuggets/higgsfield-skill](https://github.com/robonuggets/higgsfield-skill) | One MCP, 30+ image and video models behind a single key. This is the lane most of my generation work actually runs on. | check repo |
+| [robonuggets/gpt-image-2-skill](https://github.com/robonuggets/gpt-image-2-skill) | GPT Image 2 with both endpoints wired, text-to-image and edit. What I reach for when the picture *is* the typography — signs, packaging, UI mockups. | check repo |
+| [robonuggets/seedance-skill](https://github.com/robonuggets/seedance-skill) | Seedance 2.0 for liquid-glass motion graphics. Screenshot an app, get a promo clip. | check repo |
+| [robonuggets/fantastic-posters](https://github.com/robonuggets/fantastic-posters) | 31 poster styles on GPT Image 2 — it picks the right style from your brief instead of making you name one. | MIT |
 
 ## Odds and ends
 
