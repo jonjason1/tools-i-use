@@ -91,6 +91,7 @@ Curated by [Jon Jason](https://jonjason.com/?utm_source=awesome-repos&utm_medium
 | [robonuggets/gpt-image-2-skill](https://github.com/robonuggets/gpt-image-2-skill) | GPT Image 2 with both endpoints wired, text-to-image and edit. What I reach for when the picture *is* the typography — signs, packaging, UI mockups. | check repo |
 | [robonuggets/seedance-skill](https://github.com/robonuggets/seedance-skill) | Seedance 2.0 for liquid-glass motion graphics. Screenshot an app, get a promo clip. | check repo |
 | [robonuggets/fantastic-posters](https://github.com/robonuggets/fantastic-posters) | 31 poster styles on GPT Image 2 — it picks the right style from your brief instead of making you name one. | MIT |
+| [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | Give Claude eyes on any video — yt-dlp pulls it down, ffmpeg cuts the frames, Whisper fills in the audio when there are no captions. This is how I read TikToks and Reels, which Gemini won't touch from a URL. | MIT |
 
 ## Odds and ends
 
