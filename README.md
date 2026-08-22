@@ -22,6 +22,8 @@ Curated by [Jon Jason](https://jonjason.com/?utm_source=awesome-repos&utm_medium
 |---|---|---|
 | [robonuggets/gauntlet-loop](https://github.com/robonuggets/gauntlet-loop) | Turns a goal into one paste-ready prompt that runs a builder and a separate harsh critic against a real, named quality bar and loops until the work wins the blind comparison. The bar is the trick — a vague one gets you approval, not quality. Technique originally [Matt Shumer's](https://github.com/mshumer/Claude-of-Duty). | CC BY 4.0 |
 | [robonuggets/doctor-plus](https://github.com/robonuggets/doctor-plus) | Runs `/doctor`, then audits your workspace against the six context-engineering shifts Anthropic published for the Claude 5 models. Reports first, fixes only on approval. | CC BY 4.0 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | About twenty small, composable engineering skills — TDD, code review, diagnosing bugs, spec to tickets — that deliberately refuse to own your process the way BMAD or Spec-Kit do. `/wait-what`, in `skills/productivity`, makes the agent re-pitch a message that didn't land, in plain Simplified Technical English. | MIT |
+| [dmmulroy/skills](https://github.com/dmmulroy/skills) | Home of `/bro` — six lines that make the agent drop the jargon and restate its last message like one human talking to another. Also carries Effect service design and Cloudflare composition-root skills. | MIT |
 
 ## Security
 
