@@ -84,6 +84,7 @@ Curated by [Jon Jason](https://jonjason.com/?utm_source=awesome-repos&utm_medium
 | Repo | What it does | License |
 |---|---|---|
 | [browser-use/video-use](https://github.com/browser-use/video-use) | Drive a browser from video. | check repo |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | HTML/CSS/GSAP in, deterministic MP4 out. Agent-native motion graphics — the model writes a webpage and gets a video, no Remotion bundler dance. Runs fully local, no HeyGen account or key. | Apache-2.0 |
 | [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) | On-device Whisper for Apple silicon. Fast. | MIT |
 | [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) | Swift audio inference. | check repo |
 | [YouMind-OpenLab/awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) | Prompt patterns for Seedance video. | check repo |
