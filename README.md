@@ -40,7 +40,7 @@ Curated by [Jon Jason](https://jonjason.com/?utm_source=awesome-repos&utm_medium
 | [jcarterjohnson/vibecoded-design-tells](https://github.com/jcarterjohnson/vibecoded-design-tells) | The visual equivalent — how to spot a vibe-coded UI. | check repo |
 | [NulightJens/humanizer-stack](https://github.com/NulightJens/humanizer-stack) | Humanizing as a pipeline rather than one pass. | check repo |
 | [jenna-russell/storyscope](https://github.com/jenna-russell/storyscope) | Story structure analysis. | check repo |
-| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Strips the invisible layer — zero-width Unicode, C2PA provenance metadata, statistical fingerprints — out of PNG, JPEG, SVG, PDF, DOCX, HTML and Markdown. The tells you can't catch by reading. | MIT |
+| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Strips the invisible layer — zero-width Unicode, C2PA provenance metadata, statistical fingerprints — out of PNG, JPEG, SVG, PDF, DOCX, HTML and Markdown. The tells you can't catch by reading. Runs as a local HTTP service, so it needs Docker — the skill hard-stops if the service isn't up. | MIT |
 
 ## Design and front-end
 
