@@ -30,6 +30,7 @@ Curated by [Jon Jason](https://jonjason.com/?utm_source=awesome-repos&utm_medium
 | Repo | What it does | License |
 |---|---|---|
 | [usestrix/strix](https://github.com/usestrix/strix) | Autonomous AI pentesting agents. Runs your app in a Docker sandbox, finds vulnerabilities and proves them with a working exploit instead of a static-analysis guess. | Apache-2.0 |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse Engineer Anything — one MCP that drives Ghidra, JADX, Frida and friends so an agent can explain how an app or binary works, down to the native code. Bring your own engines; for software you own or are authorized to examine. | MIT |
 
 ## Writing and anti-slop
 
