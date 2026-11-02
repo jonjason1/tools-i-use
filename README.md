@@ -1,6 +1,6 @@
 # Tools I Found Along the Way
 
-A running list of open-source repos I came across while building my own systems. These are **links, not code** — nothing here is vendored, forked, or redistributed. Every project belongs to the person who wrote it, and the link goes to their repo so they get the star, the traffic, and the credit.
+A running list of repositories, tools, and design references I came across while building my own systems. These are **links, not code** — nothing here is vendored, forked, or redistributed. Each project belongs to its creator; links go to the original source.
 
 Curated by [Jon Jason](https://jonjason.com/?utm_source=awesome-repos&utm_medium=readme&utm_campaign=attribution) · [jonjason.com/skills](https://jonjason.com/skills?utm_source=awesome-repos&utm_medium=readme&utm_campaign=attribution)
 
@@ -105,8 +105,106 @@ Curated by [Jon Jason](https://jonjason.com/?utm_source=awesome-repos&utm_medium
 
 ---
 
+## More tools and references
+
+Additional projects and services to explore. A listing does not imply an endorsement or verified cost savings.
+
+### Design reference sites and services
+
+| Link | What it is |
+|---|---|
+| [Spline](https://spline.design/) | Interactive 3D design tool. |
+| [Spline MCP endpoint](https://mcp.spline.design/mcp) | Connector endpoint; see Spline's setup guide. |
+| [Refero Styles](https://styles.refero.design/) | Website design systems and DESIGN.md references. |
+| [Mobbin](https://mobbin.com/) | Shipped app and website screen references. |
+| [ArtCraft](https://getartcraft.com/) | Open-source creative apps and ArtCraft Studio. |
+| [Open Higgsfield AI](https://www.openhiggsfield.ai/) | Project website. |
+| [Zapier MCP](https://mcp.zapier.com/) | Official hosted MCP integration service. |
+
+### Link to identify
+
+| Link | Note |
+|---|---|
+| [Reverse Engineer Prompt](https://bit.ly/4i0wNCh) | Supplied short link; destination could not be verified. |
+
+### Agent skills and workflows
+
+| Repo | What it does | License |
+|---|---|---|
+| [vercel-labs/skills](https://github.com/vercel-labs/skills) | The open agent skills tool - npx skills | MIT |
+| [Jakeschincariol/arena-skill](https://github.com/Jakeschincariol/arena-skill) | When Claude keeps giving you bad answers, make 100 versions of it fight to the death. Same task, 100 different strategies, a bracket, one answer left. Free Claude Code skill. | MIT |
+| [chaseai-yt/claudex-loop](https://github.com/chaseai-yt/claudex-loop) | Claude Code skill: four-phase plan hardening (recon, interrogate, Codex adversarial review, cross-model build & inspection) — two AI models harden your plan before a line of code exists, then swap ... | check repo |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. | MIT |
+| [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | Open-source skills for designing and reviewing software with AI agents | Apache-2.0 |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents. | MIT |
+| [expo/skills](https://github.com/expo/skills) | A collection of AI agent skills for working with Expo projects and Expo Application Services | MIT |
+| [supabase/agent-skills](https://github.com/supabase/agent-skills) | Agent Skills to help developers using AI agents with Supabase | MIT |
+| [stripe/ai](https://github.com/stripe/ai) | One-stop shop for building AI-powered products and businesses with Stripe. | MIT |
+| [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI. | MIT |
+| [stablyai/orca](https://github.com/stablyai/orca) | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | MIT |
+
+### Design, UI, and creative software
+
+| Repo | What it does | License |
+|---|---|---|
+| [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) | WebGPU components for React, Vue, Svelte, Solid, JS & Framer | MIT |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. | MIT |
+| [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) | An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin. | MIT |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. | Apache-2.0 |
+| [thesysdev/openui](https://github.com/thesysdev/openui) | The Open Standard for Generative UI | MIT |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | MIT |
+| [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) | Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites. | check repo |
+| [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | The Photoshop alternative for Mac | MIT |
+| [storytold/photocraft](https://github.com/storytold/photocraft) | PhotoCraft: An open-source, photo editor written by scratch in pure Rust | Apache-2.0 |
+
+### Media and audio
+
+| Repo | What it does | License |
+|---|---|---|
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | AGPL-3.0 |
+| [Autom8AI/Open-Higgsfield-AI](https://github.com/Autom8AI/Open-Higgsfield-AI) | Open-source alternative to Higgsfield AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram). Self-hosted, customizable, MIT licensed. | check repo |
+| [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. | MIT |
+
+### Research, security, and quality
+
+| Repo | What it does | License |
+|---|---|---|
+| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per re... | Apache-2.0 |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | MIT |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills b... | Apache-2.0 |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude Code Plugins. | Apache-2.0 |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. | check repo |
+| [ItsssssJack/SlopMonster](https://github.com/ItsssssJack/SlopMonster) | Turn AI-written copy into copy a human would ship. Lint for AI tells, cleanse with a rival model, lint again. | MIT |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | Apache-2.0 |
+
+### Integrations and developer tools
+
+| Repo | What it does | License |
+|---|---|---|
+| [googleworkspace/cli](https://github.com/googleworkspace/cli) | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. | Apache-2.0 |
+| [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and aut... | MIT |
+| [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) | CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots. | Apache-2.0 |
+| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos. | MIT |
+| [sebastienrousseau/bankstatementparser](https://github.com/sebastienrousseau/bankstatementparser) | Parse bank statements (CAMT, PAIN.001, MT940, MT942, OFX/QFX, BAI2, CSV, and PDF) into unified Transactions. Treasury analytics, 2-way reconciliation, PDF forensics, Parquet & Ledger exports (hledg... | check repo |
+
+### Business and publishing
+
+| Repo | What it does | License |
+|---|---|---|
+| [every-app/open-seo](https://github.com/every-app/open-seo) | Open source alternative to Semrush and Ahrefs | MIT |
+| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, loca... | MIT |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | check repo |
+| [opf/openproject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt ch... | GPL-3.0 |
+| [calcom/cal.diy](https://github.com/calcom/cal.diy) | Scheduling infrastructure for absolutely everyone. | MIT |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 | check repo |
+| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | Open source Loom alternative. Beautiful, shareable screen recordings. | check repo |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate agentic social media scheduling tool 🤖 | AGPL-3.0 |
+| [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. | MIT |
+
+---
+
 ## Why this list exists
 
-I build a lot of internal tooling, and almost none of it is invented from nothing — it stands on work other people published for free. This is the paper trail. If something here is useful to you, go star the original repo, not this one.
+I build a lot of internal tooling, and almost none of it is invented from nothing — it stands on work other people published for free. This is the paper trail. If a repository here is useful to you, go star the original project.
 
 If you maintain a project listed here and want the entry changed or removed, open an issue and I'll handle it same day.
