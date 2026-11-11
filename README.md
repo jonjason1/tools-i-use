@@ -41,7 +41,7 @@ Curated by [Jon Jason](https://jonjason.com/?utm_source=awesome-repos&utm_medium
 | [jcarterjohnson/vibecoded-design-tells](https://github.com/jcarterjohnson/vibecoded-design-tells) | The visual equivalent — how to spot a vibe-coded UI. | check repo |
 | [NulightJens/humanizer-stack](https://github.com/NulightJens/humanizer-stack) | Humanizing as a pipeline rather than one pass. | check repo |
 | [jenna-russell/storyscope](https://github.com/jenna-russell/storyscope) | Story structure analysis. | check repo |
-| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Strips the invisible layer — zero-width Unicode, C2PA provenance metadata, statistical fingerprints — out of PNG, JPEG, SVG, PDF, DOCX, HTML and Markdown. The tells you can't catch by reading. | MIT |
+| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Strips the invisible layer — zero-width Unicode, C2PA provenance metadata, statistical fingerprints — out of PNG, JPEG, SVG, PDF, DOCX, HTML and Markdown. The tells you can't catch by reading. Runs as a local HTTP service, so it needs Docker — the skill hard-stops if the service isn't up. | MIT |
 
 ## Design and front-end
 
@@ -93,6 +93,7 @@ Curated by [Jon Jason](https://jonjason.com/?utm_source=awesome-repos&utm_medium
 | [robonuggets/gpt-image-2-skill](https://github.com/robonuggets/gpt-image-2-skill) | GPT Image 2 with both endpoints wired, text-to-image and edit. What I reach for when the picture *is* the typography — signs, packaging, UI mockups. | check repo |
 | [robonuggets/seedance-skill](https://github.com/robonuggets/seedance-skill) | Seedance 2.0 for liquid-glass motion graphics. Screenshot an app, get a promo clip. | check repo |
 | [robonuggets/fantastic-posters](https://github.com/robonuggets/fantastic-posters) | 31 poster styles on GPT Image 2 — it picks the right style from your brief instead of making you name one. | MIT |
+| [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | Give Claude eyes on any video — yt-dlp pulls it down, ffmpeg cuts the frames, Whisper fills in the audio when there are no captions. This is how I read TikToks and Reels, which Gemini won't touch from a URL. | MIT |
 
 ## Odds and ends
 
@@ -140,6 +141,7 @@ Additional projects and services to explore. A listing does not imply an endorse
 | [expo/skills](https://github.com/expo/skills) | A collection of AI agent skills for working with Expo projects and Expo Application Services | MIT |
 | [supabase/agent-skills](https://github.com/supabase/agent-skills) | Agent Skills to help developers using AI agents with Supabase | MIT |
 | [stripe/ai](https://github.com/stripe/ai) | One-stop shop for building AI-powered products and businesses with Stripe. | MIT |
+| [Stripe Best Practices](https://github.com/stripe/ai/tree/main/skills/stripe-best-practices) | Stripe implementation guidance from the Stripe AI skills repository. | check repo |
 | [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI. | MIT |
 | [stablyai/orca](https://github.com/stablyai/orca) | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | MIT |
 
@@ -173,6 +175,7 @@ Additional projects and services to explore. A listing does not imply an endorse
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings | MIT |
 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills b... | Apache-2.0 |
 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Official, Anthropic-managed directory of high quality Claude Code Plugins. | Apache-2.0 |
+| [Claude Security](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-security) | Security plugin within Anthropic’s official Claude Code plugins repository. | check repo |
 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. | check repo |
 | [ItsssssJack/SlopMonster](https://github.com/ItsssssJack/SlopMonster) | Turn AI-written copy into copy a human would ship. Lint for AI tells, cleanse with a rival model, lint again. | MIT |
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | Apache-2.0 |
@@ -196,6 +199,7 @@ Additional projects and services to explore. A listing does not imply an endorse
 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. | check repo |
 | [opf/openproject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt ch... | GPL-3.0 |
 | [calcom/cal.diy](https://github.com/calcom/cal.diy) | Scheduling infrastructure for absolutely everyone. | MIT |
+| [calcom/cal.com](https://github.com/calcom/cal.com) | Open-source scheduling platform and Calendly alternative. | check repo |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 | check repo |
 | [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | Open source Loom alternative. Beautiful, shareable screen recordings. | check repo |
 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate agentic social media scheduling tool 🤖 | AGPL-3.0 |
