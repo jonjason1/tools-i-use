@@ -144,6 +144,15 @@ Additional projects and services to explore. A listing does not imply an endorse
 | [Stripe Best Practices](https://github.com/stripe/ai/tree/main/skills/stripe-best-practices) | Stripe implementation guidance from the Stripe AI skills repository. | check repo |
 | [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI. | MIT |
 | [stablyai/orca](https://github.com/stablyai/orca) | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. | MIT |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Tools for using Claude Code with free model options. | check repo |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | Open-source coding agent for the terminal. | check repo |
+| [openai/codex](https://github.com/openai/codex) | OpenAI's coding agent and command-line tooling. | check repo |
+| [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) | Agent harness for phone-based workflows. | check repo |
+| [heygen-com/skills](https://github.com/heygen-com/skills) | Agent skills from HeyGen. | check repo |
+| [ComposioHQ/awesome-claude-skills/tree/master/content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer) | Skill for researching and writing content. | check repo |
+| [ComposioHQ/awesome-claude-skills/tree/master/twitter-algorithm-optimizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/twitter-algorithm-optimizer) | Skill for optimizing posts for X/Twitter. | check repo |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Collection of marketing skills for AI agents. | check repo |
+| [michalparkola/tapestry-skills](https://github.com/michalparkola/tapestry-skills) | Skills for working with YouTube transcripts. | check repo |
 
 ### Design, UI, and creative software
 
@@ -158,6 +167,13 @@ Additional projects and services to explore. A listing does not imply an endorse
 | [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) | Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites. | check repo |
 | [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | The Photoshop alternative for Mac | MIT |
 | [storytold/photocraft](https://github.com/storytold/photocraft) | PhotoCraft: An open-source, photo editor written by scratch in pure Rust | Apache-2.0 |
+| [smixs/visual-skills](https://github.com/smixs/visual-skills) | Visual design skills for AI agents. | check repo |
+| [anthropics/skills/tree/main/skills/canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) | Anthropic skill for canvas-based visual design. | check repo |
+| [anthropics/skills/tree/main/skills/theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory) | Anthropic skill for creating reusable themes. | check repo |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | Open design tooling and workflows. | check repo |
+| [danilo-znamerovszkij/draw-your-font](https://github.com/danilo-znamerovszkij/draw-your-font) | Tool for drawing a custom font. | check repo |
+| [hoainho/img2threejs](https://github.com/hoainho/img2threejs) | Converts images into Three.js scenes. | check repo |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Tools for creating presentations. | check repo |
 
 ### Media and audio
 
@@ -166,6 +182,30 @@ Additional projects and services to explore. A listing does not imply an endorse
 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. | AGPL-3.0 |
 | [Autom8AI/Open-Higgsfield-AI](https://github.com/Autom8AI/Open-Higgsfield-AI) | Open-source alternative to Higgsfield AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram). Self-hosted, customizable, MIT licensed. | check repo |
 | [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. | MIT |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Downloads video and audio from supported sites. | check repo |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Agentic video production system. | check repo |
+| [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) | MCP control for DaVinci Resolve. | check repo |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | Open-source video editor. | check repo |
+| [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) | Turns content into podcast-style audio. | check repo |
+| [m-bain/whisperX](https://github.com/m-bain/whisperX) | Speech transcription with word timestamps and speaker diarization. | check repo |
+| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Node-based image and video generation workflows. | check repo |
+| [danielgatis/rembg](https://github.com/danielgatis/rembg) | Removes image backgrounds. | check repo |
+| [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | Runs Whisper speech recognition locally. | check repo |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | Text-to-speech and voice generation. | check repo |
+| [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) | Animates a still portrait from a driving video. | check repo |
+| [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) | Automatically cuts silent or uneventful video segments. | check repo |
+| [mifi/lossless-cut](https://github.com/mifi/lossless-cut) | Trims audio and video without re-encoding. | check repo |
+| [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) | Digital-avatar creation tools. | check repo |
+| [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI) | AI-assisted video creation and editing. | check repo |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | Creates videos programmatically with React. | check repo |
+| [upscayl/upscayl](https://github.com/upscayl/upscayl) | Upscales images locally. | check repo |
+| [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) | Video generation model and tooling. | check repo |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | Voice creation and management app. | check repo |
+| [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) | Open-source video editing and recording tools. | check repo |
+| [SegFault42/HeliosGen](https://github.com/SegFault42/HeliosGen) | Generative media tooling. | check repo |
+| [SECHAK-AG/capptivo](https://github.com/SECHAK-AG/capptivo) | Video captioning tools. | check repo |
+| [jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) | AI-assisted video editing. | check repo |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Examples and resources for GPT Image 2. | check repo |
 
 ### Research, security, and quality
 
@@ -179,6 +219,13 @@ Additional projects and services to explore. A listing does not imply an endorse
 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. | check repo |
 | [ItsssssJack/SlopMonster](https://github.com/ItsssssJack/SlopMonster) | Turn AI-written copy into copy a human would ship. Lint for AI tells, cleanse with a rival model, lint again. | MIT |
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. | Apache-2.0 |
+| [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) | MCP server for web crawling and extraction. | check repo |
+| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | Monitors websites for changes and sends alerts. | check repo |
+| [kevinwatt/yt-dlp-mcp](https://github.com/kevinwatt/yt-dlp-mcp) | MCP tools for YouTube metadata and transcripts. | check repo |
+| [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) | Exposes Apify Actors as MCP tools for web extraction. | check repo |
+| [stanford-oval/storm](https://github.com/stanford-oval/storm) | Researches topics and drafts article-style reports. | check repo |
+| [egbertbouman/youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) | Downloads YouTube comments for analysis. | check repo |
+| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | Collection of generative AI projects and examples. | check repo |
 
 ### Integrations and developer tools
 
@@ -189,6 +236,14 @@ Additional projects and services to explore. A listing does not imply an endorse
 | [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) | CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots. | Apache-2.0 |
 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos. | MIT |
 | [sebastienrousseau/bankstatementparser](https://github.com/sebastienrousseau/bankstatementparser) | Parse bank statements (CAMT, PAIN.001, MT940, MT942, OFX/QFX, BAI2, CSV, and PDF) into unified Transactions. Treasury analytics, 2-way reconciliation, PDF forensics, Parquet & Ledger exports (hledg... | check repo |
+| [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) | MCP server for Notion. | check repo |
+| [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) | MCP server for Airtable. | check repo |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | Open-source database interface with spreadsheet views. | check repo |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Workflow automation platform. | check repo |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | MCP integration for n8n workflows. | check repo |
+| [hostinger/api-mcp-server](https://github.com/hostinger/api-mcp-server) | MCP server for the Hostinger API. | check repo |
+| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Self-hosted password manager compatible with Bitwarden clients. | check repo |
+| [nextcloud/server](https://github.com/nextcloud/server) | Self-hosted file sync and collaboration server. | check repo |
 
 ### Business and publishing
 
@@ -204,6 +259,14 @@ Additional projects and services to explore. A listing does not imply an endorse
 | [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | Open source Loom alternative. Beautiful, shareable screen recordings. | check repo |
 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate agentic social media scheduling tool 🤖 | AGPL-3.0 |
 | [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. | MIT |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | Open-source CRM. | check repo |
+| [plausible/analytics](https://github.com/plausible/analytics) | Privacy-focused web analytics. | check repo |
+| [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) | Invoicing and payment management. | check repo |
+| [makeplane/plane](https://github.com/makeplane/plane) | Project and issue management. | check repo |
+| [formbricks/formbricks](https://github.com/formbricks/formbricks) | Forms and surveys platform. | check repo |
+| [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Collaborative workspace and notes app. | check repo |
+| [documenso/documenso](https://github.com/documenso/documenso) | Electronic signatures and document workflows. | check repo |
+| [umami-software/umami](https://github.com/umami-software/umami) | Web analytics platform. | check repo |
 
 ---
 
@@ -212,72 +275,3 @@ Additional projects and services to explore. A listing does not imply an endorse
 I build a lot of internal tooling, and almost none of it is invented from nothing — it stands on work other people published for free. This is the paper trail. If a repository here is useful to you, go star the original project.
 
 If you maintain a project listed here and want the entry changed or removed, open an issue and I'll handle it same day.
-
-
-## GitHub links from Vic's Airtable tools list
-
-Source: [Vic's tools list](https://airtable.com/app8t3Je3tzNvbumq/shrXb5PjoVey26Aar/tblnB1kW5ZwYv5Y4d). Projects already listed above are omitted.
-
-- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
-- [kevinwatt/yt-dlp-mcp](https://github.com/kevinwatt/yt-dlp-mcp)
-- [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server)
-- [stanford-oval/storm](https://github.com/stanford-oval/storm)
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
-- [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp)
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-- [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy)
-- [m-bain/whisperX](https://github.com/m-bain/whisperX)
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-- [michalparkola/tapestry-skills](https://github.com/michalparkola/tapestry-skills)
-- [danielgatis/rembg](https://github.com/danielgatis/rembg)
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
-- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
-- [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait)
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor)
-- [ComposioHQ/awesome-claude-skills/tree/master/content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut)
-- [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar)
-- [heygen-com/skills](https://github.com/heygen-com/skills)
-- [smixs/visual-skills](https://github.com/smixs/visual-skills)
-- [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI)
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
-- [upscayl/upscayl](https://github.com/upscayl/upscayl)
-- [ComposioHQ/awesome-claude-skills/tree/master/twitter-algorithm-optimizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/twitter-algorithm-optimizer)
-- [anthropics/skills/tree/main/skills/canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design)
-- [anthropics/skills/tree/main/skills/theme-factory](https://github.com/anthropics/skills/tree/main/skills/theme-factory)
-- [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server)
-- [egbertbouman/youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader)
-- [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
-- [nexu-io/open-design](https://github.com/nexu-io/open-design)
-- [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server)
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
-- [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid)
-- [nocodb/nocodb](https://github.com/nocodb/nocodb)
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty)
-- [SegFault42/HeliosGen](https://github.com/SegFault42/HeliosGen)
-- [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)
-- [danilo-znamerovszkij/draw-your-font](https://github.com/danilo-znamerovszkij/draw-your-font)
-- [hoainho/img2threejs](https://github.com/hoainho/img2threejs)
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
-- [SECHAK-AG/capptivo](https://github.com/SECHAK-AG/capptivo)
-- [jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit)
-- [plausible/analytics](https://github.com/plausible/analytics)
-- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)
-- [makeplane/plane](https://github.com/makeplane/plane)
-- [formbricks/formbricks](https://github.com/formbricks/formbricks)
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n)
-- [documenso/documenso](https://github.com/documenso/documenso)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode)
-- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
-- [hostinger/api-mcp-server](https://github.com/hostinger/api-mcp-server)
-- [umami-software/umami](https://github.com/umami-software/umami)
-- [nextcloud/server](https://github.com/nextcloud/server)
-- [openai/codex](https://github.com/openai/codex)
