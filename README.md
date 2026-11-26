@@ -206,6 +206,30 @@ Additional projects and services to explore. A listing does not imply an endorse
 | [SECHAK-AG/capptivo](https://github.com/SECHAK-AG/capptivo) | Video captioning tools. | check repo |
 | [jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) | AI-assisted video editing. | check repo |
 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Examples and resources for GPT Image 2. | check repo |
+| [hetpatel-11/Adobe_Premiere_Pro_MCP](https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP) | MCP server that lets Claude, Codex, and other MCP clients edit in Adobe Premiere Pro. | MIT |
+| [elliotttate/SpliceKit](https://github.com/elliotttate/SpliceKit) | Connects Claude to Final Cut Pro — command palette, MCP server, and an open plugin framework. | MIT |
+| [modelscope/ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) | Cleans up speech: noise and mic-hiss removal, speaker separation, and target-speaker extraction. | Apache-2.0 |
+
+### Video apps and connectors
+
+| Link | What it is |
+|---|---|
+| [Claude Code desktop](https://code.claude.com/docs/en/desktop) | Setup guide for the Claude Code desktop app. |
+| [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve) | Pro video editor; version 21.1+ ships a built-in MCP server. |
+| [Instagram Edits for Mac](https://edits.instagram.com/desktop/) | Desktop video editor; agent automation lives under Settings → Automation. |
+| [Epidemic Sound developer portal](https://developers.epidemicsound.com/) | Home of the Epidemic Sound MCP — optional, paid music library. |
+
+### Setup prerequisites
+
+| Link | What it is |
+|---|---|
+| [Homebrew](https://brew.sh/) | Package manager for macOS. |
+| [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget/) | Package manager for Windows. |
+| [FFmpeg + ffprobe](https://ffmpeg.org/download.html) | Command-line video and audio processing. |
+| [Node.js](https://nodejs.org/en/download) | JavaScript runtime; needed for `npx`-based tools. |
+| [uv](https://docs.astral.sh/uv/) | Fast Python package and project manager. |
+| [Git](https://git-scm.com/install/) | Version control. |
+| [Python](https://www.python.org/downloads/) | Python runtime. |
 
 ### Research, security, and quality
 
